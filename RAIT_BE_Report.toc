@@ -1,0 +1,60 @@
+\contentsline {chapter}{Abstract}{iv}
+\contentsline {paragraph}{}{iv}
+\contentsline {paragraph}{}{iv}
+\contentsline {paragraph}{}{iv}
+\contentsline {chapter}{\numberline {1}Introduction to Devanagari Script}{1}
+\contentsline {paragraph}{}{1}
+\contentsline {paragraph}{Guideline for writting in devanagari script}{1}
+\contentsline {chapter}{\numberline {2}Optical Character Recognition (OCR)}{2}
+\contentsline {section}{\numberline {2.1}Definition of OCR}{2}
+\contentsline {paragraph}{}{2}
+\contentsline {paragraph}{}{2}
+\contentsline {section}{\numberline {2.2}History of OCR}{3}
+\contentsline {paragraph}{}{3}
+\contentsline {section}{\numberline {2.3}OCR rather than scanning}{3}
+\contentsline {paragraph}{}{3}
+\contentsline {section}{\numberline {2.4}OCR for devanagari script}{3}
+\contentsline {paragraph}{}{3}
+\contentsline {chapter}{\numberline {3}Working}{4}
+\contentsline {section}{\numberline {3.1}Scanning}{4}
+\contentsline {paragraph}{}{4}
+\contentsline {paragraph}{}{4}
+\contentsline {paragraph}{}{4}
+\contentsline {section}{\numberline {3.2}Pre-Prcoessing}{5}
+\contentsline {paragraph}{}{5}
+\contentsline {paragraph}{}{5}
+\contentsline {paragraph}{}{5}
+\contentsline {paragraph}{}{5}
+\contentsline {subsection}{\numberline {3.2.1}Compression}{5}
+\contentsline {paragraph}{}{5}
+\contentsline {paragraph}{}{5}
+\contentsline {paragraph}{}{6}
+\contentsline {subsection}{\numberline {3.2.2}Binarization}{6}
+\contentsline {paragraph}{}{6}
+\contentsline {paragraph}{}{6}
+\contentsline {section}{\numberline {3.3}Image Segmentation}{7}
+\contentsline {paragraph}{}{7}
+\contentsline {paragraph}{}{7}
+\contentsline {section}{\numberline {3.4}Feature Extraction}{7}
+\contentsline {paragraph}{}{7}
+\contentsline {paragraph}{}{8}
+\contentsline {paragraph}{}{8}
+\contentsline {subsection}{\numberline {3.4.1}Histogram of individual characters }{8}
+\contentsline {paragraph}{}{8}
+\contentsline {paragraph}{}{8}
+\contentsline {paragraph}{}{9}
+\contentsline {subsection}{\numberline {3.4.2}GLCM(Gray Level Co-occurence Matrix)}{9}
+\contentsline {paragraph}{}{9}
+\contentsline {paragraph}{}{9}
+\contentsline {section}{\numberline {3.5}Training and Recognition}{10}
+\contentsline {paragraph}{}{10}
+\contentsline {section}{\numberline {3.6}Post-processing}{10}
+\contentsline {paragraph}{}{10}
+\contentsline {chapter}{\numberline {4}Result}{12}
+\contentsline {chapter}{\numberline {5}Future Scope}{13}
+\contentsline {paragraph}{}{13}
+\contentsline {paragraph}{}{13}
+\contentsline {chapter}{\numberline {6}Conclusion}{14}
+\contentsline {paragraph}{}{14}
+\contentsline {paragraph}{}{14}
+\contentsline {chapter}{Bibliography}{15}
