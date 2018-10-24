@@ -2,6 +2,7 @@
 \contentsline {paragraph}{}{iv}
 \contentsline {paragraph}{}{iv}
 \contentsline {paragraph}{}{iv}
+\contentsline {chapter}{List of Figures}{vi}
 \contentsline {chapter}{\numberline {1}Introduction to Devanagari Script}{1}
 \contentsline {paragraph}{}{1}
 \contentsline {paragraph}{Guideline for writting in devanagari script}{1}
@@ -11,7 +12,7 @@
 \contentsline {paragraph}{}{2}
 \contentsline {section}{\numberline {2.2}History of OCR}{3}
 \contentsline {paragraph}{}{3}
-\contentsline {section}{\numberline {2.3}OCR rather than scanning}{3}
+\contentsline {section}{\numberline {2.3}Need of OCR}{3}
 \contentsline {paragraph}{}{3}
 \contentsline {section}{\numberline {2.4}OCR for devanagari script}{3}
 \contentsline {paragraph}{}{3}

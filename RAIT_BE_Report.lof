@@ -3,8 +3,11 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {2.1}{\ignorespaces OCR}}{2}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces OCR}}{6}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces OCR}}{6}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Scanning in OCR}}{4}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Binarization}}{6}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Image Segmentation}}{7}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Histogram of individual characters}}{8}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Features calculated from GLCM}}{9}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
